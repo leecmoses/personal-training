@@ -128,7 +128,7 @@ body {
 	.Middle_sec #Rightside li .Industrial { padding-top: 4px;  float: left; }
 	.Middle_sec #Rightside li .Information { width: 54.5%; float: right; }
 	.Information a { color: #fff; }
-	.Middle_sec #Rightside li .Information h4 { font-size: 24px; color: #00b3ae; font-family: 'Open Sans', sans-serif; font-weight: 700; margin: 0px; text-transform:uppercase; line-height: 28px; }
+	.Middle_sec #Rightside li .Information h4 { font-size: 24px; color: #e4681b; font-family: 'Open Sans', sans-serif; font-weight: 700; margin: 0px; text-transform:uppercase; line-height: 28px; }
 	.Middle_sec #Rightside li .Information h4 span { display: block; color: #fff; font-family: 'Open Sans', sans-serif; font-weight: 300;}
 	.Middle_sec #Rightside li .Information p { padding: 18px 0px 16px 0px; font-size: 14px; margin: 0px; color: #8a929f; font-family: 'Open Sans', sans-serif; font-weight: 400;  }
 	.Middle_sec #Rightside li .Information ul { list-style: none; }
