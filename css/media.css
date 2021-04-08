@@ -270,7 +270,7 @@
 	.Contact_sec .Form input.field { width: 100%; background: #2a3241; background-image: none; padding: 0px 26px }
 	.Contact_sec .Form input.field1 { width: 100%; background: #2a3241; background-image: none; margin-left: 0px; padding: 0px 26px  }
 	.Contact_sec .Form textarea {  width: 100%; background: #2a3241; background-image: none; margin-left: 0px; padding: 20px 26px 10px 26px  }
-	.Contact_sec .Form input.Button { width: 100%; background: #ffcc70!important; background-image: none!important; border-radisu: 0px!important; margin-left: 0px; -webkit-appearance: none; }
+	.Contact_sec .Form input.Button { width: 100%; background: #005a84!important; background-image: none!important; border-radius: 0px!important; margin-left: 0px; -webkit-appearance: none; }
 	
 	.Contactside { position: relative; background: none; height: auto; }
 	
